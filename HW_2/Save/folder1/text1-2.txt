@@ -1,0 +1,2 @@
+require 'text2.txt'
+Suspendisse id magna a sem porta auctor a nec lacus.

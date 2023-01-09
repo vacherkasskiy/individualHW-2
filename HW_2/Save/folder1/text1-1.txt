@@ -1,0 +1,2 @@
+require 'folder2\text1-2.txt'
+Quisque finibus tortor at velit porta, ac elementum justo lobortis.
